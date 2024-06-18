@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.5.0/controls.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <script src="channelData.js"></script>
-    <script src="Astro.js"></script>
     <style>
         html, body {
             height: 100%;
@@ -59,6 +58,16 @@
                 key: channelInfo.drm.clearkey.key
             };
         }
+        // Allowed domain
+var allowedDomain = "finallylivestreamingweb.pages.dev";
+
+// Check current domain
+var currentDomain = window.location.hostname;
+
+// Redirect if the current domain doesn't match the allowed domain
+if (currentDomain !== allowedDomain) {
+  window.location.href = "https://telegram.me/livecrichdofficial"; // Redirect to your preferred URL
+}
     </script>
 
     <script>
