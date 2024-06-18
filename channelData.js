@@ -1,4 +1,4 @@
-const channelData3 = {
+const channelData = {
   "Astro_plus": {
     "file": "https://linear05-playback.sooka.my/CH2/masterCH2.mpd",
     "drm": {
