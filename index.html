@@ -40,14 +40,7 @@
     <script src="channelData6.js"></script>
 
     <script>
-        // Domain Lock
-        const allowedDomains = ['https://finallylivestreamingweb.pages.dev'];
-
-        if (!allowedDomains.includes(window.location.origin)) {
-            alert('This content is restricted to specific domains.');
-            window.location.href = 'https://telegram.me/livecrichdofficial';
-        }
-
+        
         // Merge all channel data
         const allChannelData = { ...channelData1, ...channelData2, ...channelData3, ...channelData4, ...channelData5, ...channelData6 };
 
