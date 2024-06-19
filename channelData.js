@@ -1,3 +1,164 @@
-//<!--
-const _0x3e7820=_0x2ac9;function _0x2ac9(_0x3e1b96,_0x55746b){const _0x2b39cf=_0xfee6();return _0x2ac9=function(_0x415d63,_0x14652d){_0x415d63=_0x415d63-(-0x1cf0+-0x931+0x27bb);let _0x428312=_0x2b39cf[_0x415d63];return _0x428312;},_0x2ac9(_0x3e1b96,_0x55746b);}function _0xfee6(){const _0x1b7716=['near007-gb','537c4c1759','ash/enc/tg','1854246PCXDve','1042699lolGMy','41b6f0e27c','4YlWXSn','aaamkycwli','t/DASH_003','l(skysport','ea37faa137','db6d66f90f','7d47914d93','-ak.cdn.sk','nearjitp-p','0cc71f8ab8','9ba8844a23','inear/2504','/clients/d','aaamibyasm','tro.com.my','a5sdmaaaaa','540dad862b','d5b42ba86c','b7d8940f64','ut/v1/3775','ah6buj4.ot','ve4.shoq.c','462206ed86','anifest_72','58118e40/c','cd4d4f6a2e','290c69584c','364/drm/ma','1f16bbd0ad','ae8f644105','1105b85e6d','3a43969364','31675b39ee','f3d149f34a','67dc34a103','9ecad6c441','yback.sook','n.net/pdx-','8159f9f0ce','/PTV_Sport','near-novi.','2aRMUxL','00056d5c88','ash/enc/bo','82917a4463','475d7932b5','/default.m','12jodHVO','3ea17b40b3','90b3022b5e','138730cOgrxW','247931RduUEr','asterCH2.m','stvacdn.sp','ports/DASH','404ea1b8/c','bd0257ad8e','4829046893','441hZOdRI','/v1/bebec7','97b531/ind','/dash-wv/l','d1badeadb1','https://cm','/bpk-tv/10','-dash1-prd','nifest.mpd','f026409c4e','mfoav3v.ot','s.mpd','226c39dd7d','3f8bdc5471','57139ae8ab','896IjytaV','/LIVE/5248','_720_120/L','/eds/PTV_S','6da8c268d5','ive/channe','ectrum.com','0.mpd','rzplayarab','21f78627b6','scricket)/','ec2168a420','4a52070154','69bdada8ba','near013-gb','16a/Conten','.ww.aiv-cd','222520Pxyiqp','b6214e686e','6b75b60c58','ut/v1/7296','8a0fe4ff75','2ce6c072a2','20-120.mpd','5b00d4341e','ash/enc/dm','120HftyAg','c4fcc189a3','saction)/m','91d2a89fb1','ee77f76dd6','crfjcgia/o','eb0ae4c2c2','9b5dbc865f','3abe978115','56YCXCsJ','bd52d185d3','7a81d8cd7d','442df559c3','cd84ed136b','ia.com/out','f352bb9201','x2cgzhi.ot','69004EkFwKW','320881fOkayW','aaamcs7bgw','enc.mpd','0003d0fbdf','54b65fa2d1','te.live.cf','a.my/CH2/m','layback.as','478062ec89','om.pk/live','https://li','mqe7ssji/o','3ea8b9f0ce','8628f9ad/c','03c2e0af2f','near05-pla','7cbf58b8ab','nitro/live','ex.mpd','axlive.sta','499bb09a36','https://ab','ut/v1/01d1','2e5e1c5ced','4a267ba09b','59d8511873','d297359a8a','pqv4fykb/o','d6d63d7a13','ebfa3109af','ycdp.com/0','manifest_7'];_0xfee6=function(){return _0x1b7716;};return _0xfee6();}(function(_0x5e91b7,_0x5f06b0){const _0xc382c7=_0x2ac9,_0x35ffaa=_0x5e91b7();while(!![]){try{const _0x1ecb49=parseInt(_0xc382c7(0x1d1))/(-0x96*-0x16+-0x609+-0x6da*0x1)*(-parseInt(_0xc382c7(0x1c7))/(0xc3a*0x1+0xc14+-0x5*0x4dc))+parseInt(_0xc382c7(0x19b))/(0x2*-0x110f+-0x157f*0x1+0xa*0x590)*(parseInt(_0xc382c7(0x19e))/(-0x1*0x12ff+0xd0e+-0x1*-0x5f5))+-parseInt(_0xc382c7(0x1f8))/(-0x2dd*-0x1+-0x1094+0xdbc)*(-parseInt(_0xc382c7(0x1cd))/(0x175c+0x1509+-0x133*0x25))+parseInt(_0xc382c7(0x19c))/(0x13d*-0x2+-0x2a+0x2ab)*(-parseInt(_0xc382c7(0x20a))/(-0x131*-0x17+0x23e9+-0x4b*0xd8))+parseInt(_0xc382c7(0x1d8))/(0x19*0x151+0x1237+-0x4a5*0xb)*(parseInt(_0xc382c7(0x1d0))/(0x9c*-0x2f+-0x1*-0x159b+0x713))+-parseInt(_0xc382c7(0x213))/(-0x1e4a+0x1bb*0x1+-0x416*-0x7)*(-parseInt(_0xc382c7(0x201))/(-0x850+-0x3*-0x151+-0x1*-0x469))+parseInt(_0xc382c7(0x212))/(-0xe4b*-0x1+-0xcb5*0x1+0x1*-0x189)*(parseInt(_0xc382c7(0x1e7))/(0x18cf+-0x17be*-0x1+-0x307f*0x1));if(_0x1ecb49===_0x5f06b0)break;else _0x35ffaa['push'](_0x35ffaa['shift']());}catch(_0x4292b6){_0x35ffaa['push'](_0x35ffaa['shift']());}}}(_0xfee6,0x835df+-0x2*0xaa849+0x629*0x3ee));const channelData={'Astro_plus':{'file':_0x3e7820(0x21d)+_0x3e7820(0x222)+_0x3e7820(0x1c2)+_0x3e7820(0x219)+_0x3e7820(0x1d2)+'pd','drm':{'clearkey':{'keyId':_0x3e7820(0x22b)+_0x3e7820(0x1bd)+_0x3e7820(0x205)+'22','key':_0x3e7820(0x1ff)+_0x3e7820(0x1cf)+_0x3e7820(0x1e6)+'16'}}},'Astro':{'file':_0x3e7820(0x21d)+_0x3e7820(0x1a6)+_0x3e7820(0x21a)+_0x3e7820(0x1ac)+_0x3e7820(0x1db)+_0x3e7820(0x1a9)+_0x3e7820(0x1cc)+'pd','drm':{'clearkey':{'keyId':_0x3e7820(0x221)+_0x3e7820(0x1c4)+_0x3e7820(0x208)+'10','key':_0x3e7820(0x20e)+_0x3e7820(0x1a7)+_0x3e7820(0x1b7)+'4c'}}},'Willow':{'file':_0x3e7820(0x21d)+_0x3e7820(0x1c6)+_0x3e7820(0x1d3)+_0x3e7820(0x1ed)+_0x3e7820(0x1e8)+_0x3e7820(0x1de)+_0x3e7820(0x1b9)+_0x3e7820(0x1e0),'drm':{'clearkey':{'keyId':_0x3e7820(0x1cb)+_0x3e7820(0x210)+_0x3e7820(0x1fa)+'fa','key':_0x3e7820(0x1a2)+_0x3e7820(0x1bb)+_0x3e7820(0x202)+'5f'}}},'Prime1':{'file':_0x3e7820(0x228)+_0x3e7820(0x1ad)+_0x3e7820(0x19f)+_0x3e7820(0x1b2)+_0x3e7820(0x218)+_0x3e7820(0x1f7)+_0x3e7820(0x1c3)+_0x3e7820(0x224)+_0x3e7820(0x1aa)+_0x3e7820(0x19a)+_0x3e7820(0x206)+_0x3e7820(0x1fb)+_0x3e7820(0x1e1)+_0x3e7820(0x1a8)+_0x3e7820(0x220)+_0x3e7820(0x215),'drm':{'clearkey':{'keyId':_0x3e7820(0x1dc)+_0x3e7820(0x1ba)+_0x3e7820(0x1a4)+'9e','key':_0x3e7820(0x20b)+_0x3e7820(0x234)+_0x3e7820(0x1a3)+'31'}}},'Prime2':{'file':_0x3e7820(0x228)+_0x3e7820(0x1ad)+_0x3e7820(0x214)+_0x3e7820(0x211)+_0x3e7820(0x218)+_0x3e7820(0x1f7)+_0x3e7820(0x1c3)+_0x3e7820(0x224)+_0x3e7820(0x1aa)+_0x3e7820(0x1c9)+_0x3e7820(0x22e)+_0x3e7820(0x229)+_0x3e7820(0x1b8)+_0x3e7820(0x223)+_0x3e7820(0x1d5)+_0x3e7820(0x215),'drm':{'clearkey':{'keyId':_0x3e7820(0x1eb)+_0x3e7820(0x1fc)+_0x3e7820(0x22d)+'d7','key':_0x3e7820(0x207)+_0x3e7820(0x1f3)+_0x3e7820(0x227)+'cb'}}},'Prime3':{'file':_0x3e7820(0x228)+_0x3e7820(0x1ad)+_0x3e7820(0x1ab)+_0x3e7820(0x1e2)+_0x3e7820(0x218)+_0x3e7820(0x1f7)+_0x3e7820(0x1c3)+_0x3e7820(0x224)+_0x3e7820(0x1aa)+_0x3e7820(0x200)+_0x3e7820(0x21e)+_0x3e7820(0x1b1)+_0x3e7820(0x1bf)+_0x3e7820(0x20c)+_0x3e7820(0x1b6)+_0x3e7820(0x215),'drm':{'clearkey':{'keyId':_0x3e7820(0x1bc)+_0x3e7820(0x1f9)+_0x3e7820(0x1b4)+'ec','key':_0x3e7820(0x22c)+_0x3e7820(0x217)+_0x3e7820(0x1d7)+'ef'}}},'Skyaction(ukvpn)':{'file':_0x3e7820(0x21d)+_0x3e7820(0x1f5)+_0x3e7820(0x1df)+_0x3e7820(0x1a5)+_0x3e7820(0x231)+_0x3e7820(0x1f6)+_0x3e7820(0x1a0)+_0x3e7820(0x1e9)+_0x3e7820(0x1ec)+_0x3e7820(0x1a1)+_0x3e7820(0x203)+_0x3e7820(0x1b5)+_0x3e7820(0x1ee),'drm':{'clearkey':{'keyId':_0x3e7820(0x216)+_0x3e7820(0x1be)+_0x3e7820(0x21f)+'68','key':_0x3e7820(0x230)+_0x3e7820(0x1c0)+_0x3e7820(0x1f0)+'31'}}},'Skycricket(ukvpn)':{'file':_0x3e7820(0x21d)+_0x3e7820(0x233)+_0x3e7820(0x1df)+_0x3e7820(0x1a5)+_0x3e7820(0x231)+_0x3e7820(0x1f6)+_0x3e7820(0x1a0)+_0x3e7820(0x1e9)+_0x3e7820(0x1ec)+_0x3e7820(0x1a1)+_0x3e7820(0x1f1)+_0x3e7820(0x232)+_0x3e7820(0x1fe),'drm':{'clearkey':{'keyId':_0x3e7820(0x1c8)+_0x3e7820(0x1ca)+_0x3e7820(0x1af)+'31','key':_0x3e7820(0x1e4)+_0x3e7820(0x19d)+_0x3e7820(0x1b0)+'4f'}}},'criclifemax(gulfcountries)':{'file':_0x3e7820(0x1dd)+_0x3e7820(0x226)+_0x3e7820(0x1ef)+_0x3e7820(0x20f)+_0x3e7820(0x1d9)+_0x3e7820(0x1ce)+_0x3e7820(0x1d6)+_0x3e7820(0x1da)+_0x3e7820(0x225),'drm':{'clearkey':{'keyId':_0x3e7820(0x1f2)+_0x3e7820(0x21b)+_0x3e7820(0x1ae)+'dd','key':_0x3e7820(0x22f)+_0x3e7820(0x204)+_0x3e7820(0x22a)+'01'}}},'Ptvsports(pakvpn)':{'file':_0x3e7820(0x21d)+_0x3e7820(0x1b3)+_0x3e7820(0x21c)+_0x3e7820(0x1ea)+_0x3e7820(0x1d4)+_0x3e7820(0x1c5)+_0x3e7820(0x1e3),'drm':{'clearkey':{'keyId':_0x3e7820(0x1c1)+_0x3e7820(0x1e5)+_0x3e7820(0x1fd)+'cf','key':_0x3e7820(0x20d)+_0x3e7820(0x1f4)+_0x3e7820(0x209)+'75'}}}};
-//-->
+const channelData = {
+  "Astro_plus": {
+    "file": "https://linear05-playback.sooka.my/CH2/masterCH2.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "4a267ba09b3a43969364ee77f76dd622",
+        "key": "5b00d4341e90b3022b5e57139ae8ab16"
+      }
+    }
+  },
+  "Astro": {
+    "file": "https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c",
+        "key": "03c2e0af2f8159f9f0ce9b5dbc865f10"
+      }
+    }
+  },
+  "Willow": {
+    "file": "https://linear-novi.stvacdn.spectrum.com/LIVE/5248/bpk-tv/10364/drm/manifest.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "475d7932b5f352bb92016b75b60c58fa",
+        "key": "ea37faa137ae8f644105c4fcc189a35f"
+      }
+    }
+  },
+  "Prime1": {
+    "file": "https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "d1badeadb11f16bbd0ad7d47914d939e",
+        "key": "bd52d185d3537c4c1759db6d66f90f31"
+      }
+    }
+  },
+  "Prime2": {
+    "file": "https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "6da8c268d58a0fe4ff75d297359a8ad7",
+        "key": "eb0ae4c2c24a52070154499bb09a36cb"
+      }
+    }
+  },
+  "Prime3": {
+    "file": "https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "1105b85e6db6214e686e462206ed86ec",
+        "key": "59d851187354b65fa2d14829046893ef"
+      }
+    }
+  },
+  "Skyaction(ukvpn)": {
+    "file": "https://linear013-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsaction)/manifest_720.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "0003d0fbdf31675b39ee3ea8b9f0ce68",
+        "key": "ebfa3109af67dc34a10321f78627b631"
+      }
+    }
+  },
+  "Skycricket(ukvpn)": {
+    "file": "https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "00056d5c8882917a4463d5b42ba86c31",
+        "key": "226c39dd7d41b6f0e27cb7d8940f644f"
+      }
+    }
+  },
+  "criclifemax(gulfcountries)": {
+    "file": "https://cmaxlive.starzplayarabia.com/out/v1/bebec73ea17b40b3bd0257ad8e97b531/index.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "ec2168a420478062ec89540dad862bdd",
+        "key": "d6d63d7a1391d2a89fb12e5e1c5ced01"
+      }
+    }
+  },
+  "Ptvsports(pakvpn)": {
+    "file": "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "9ecad6c4413f8bdc54712ce6c072a2cf",
+        "key": "442df559c369bdada8ba3abe97811575"
+      }
+    }
+  },
+"BBC1": {
+    "file": "https://wp1-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09091/manifest.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "6401e1fead9d4f43910aaad360f46dd0",
+        "key": "598f5e4f10d4e040d25579478cadc4ee"
+      }
+    }
+  },
+  "TVLA1": {
+    "file": "https://mad02.cdn.avatel.tv/live/eds/la1/MPEG-DASH_Scrambled_High/la1.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "0b5e6af8d1f345828d9cfff8cbf903ee",
+        "key": "99df7780551f38af550a637923bd4a31"
+      }
+    }
+  },
+  "SKY_251_IT": {
+    "file": "https://linear311-it-dash1-prd.selector.skycdn.it/016a/31917/FHD/skysport251/master.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "00368000eaecbeeafd84c05b3b8243af",
+        "key": "8f84185910e18ae0ca8a45004625a000"
+      }
+    }
+  },
+  "ITV1_GB": {
+    "file": "https://wp2-obc1112-live-ch-prod.prod.cdn.dmdsdp.com/dash/SV09212/manifest.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "5d9937d586414096948337ac314d79c1",
+        "key": "22ca2e250b729982c97209e0ff3f7e9b"
+      }
+    }
+  },
+  "ZDF_DE": {
+    "file": "https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpdF5wFAAKgAXABAACoAFoAMgAaABFACYAE8AKUAWwBcADaAIAAQkA_QD-AIGAUgA_YC8wAAAEhIAMAAQSnDQAYAAglOIgAwABBKcVABgACCU4yADAAEEpx0AGAAIJTkIAMAAQSnJQAYAAglOUgAwABBKcA.f_gAAAAAAAAA&UGDPR=1&DAdID=e76997ff-4695-4a78-9bb8-488e1631872a&requestuid=742b0983-cd7c-11ed-961f-a2691158f87a",
+    "drm": {
+      "clearkey": {
+        "keyId": "7757d3fa8cdab673a2dd9f3ed7b41360",
+        "key": "96e498b70eeecfc0164ed4e0a78e36f3"
+      }
+    }
+  },
+  "CTSPORTS_CZ": {
+    "file": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "11223344556677889900112233445566",
+        "key": "11223344556677889900112233445566"
+      }
+    }
+  },
+"TV2_Direkte_NO": {
+    "file": "https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd?version=1&adap=no_dolby&RikstvAssetId=rikstv_5711",
+    "drm": {
+      "clearkey": {
+        "keyId": "bfb0134de69d76d25b5b4b202df11431",
+        "key": "025915bd3062c4bde44a13916c5bfefe"
+      }
+    }
+  },
+"Sky_Sports_Calcio_IT": {
+    "file": "https://linear302-it-dash1-prd-ll.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "0036e5d0e88dfb087f1791da6150ced9",
+        "key": "0bc653d830837dceb13bd17169f0f8e2"
+      }
+    }
+  },
+ };
