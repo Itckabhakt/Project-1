@@ -1,5 +1,5 @@
 const channelData = {
-  "Hindi": {
+  "Starhindi": {
     "file": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/xxx.mpd",
     "drm": {
       "clearkey": {
