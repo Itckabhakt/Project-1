@@ -3,8 +3,8 @@ const channelData = {
     "file": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/xxx.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "a4b9769490c8575380be6e976d040742",
-        "key": "68705d9f4f54e2ff4de55a24a0a487a9"
+        "keyId": "972504628ce7573b89afe10e7fbb4819",
+        "key": "cd91a5f9b74fd176b84efa04332f9201"
       }
     }
   },
@@ -12,8 +12,8 @@ const channelData = {
     "file": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/xxx.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "0ab3dfd82cf15467ac684aebf75ee0a9",
-        "key": "de3194bce7f3123cbd02809d807325c6"
+        "keyId": "69e9b10628cb5f269c18f9b16bb675a3",
+        "key": "9f34fd77742cfce069b10a0dd3513292"
       }
     }
   },
