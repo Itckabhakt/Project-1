@@ -3,8 +3,8 @@ const channelData = {
     "file": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/xxx.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "79ed43db04c1574c91655079db110ba3",
-        "key": "5b7d6d69017da4d51a476b3e20ec0b3e"
+        "keyId": "9bc4071e714451ceb50b23487ad4a050",
+        "key": "d72ea49d483987571cfe37218bd8ddb0"
       }
     }
   },
