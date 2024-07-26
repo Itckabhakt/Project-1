@@ -3,8 +3,8 @@ const channelData = {
     "file": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/mani.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "6a63735cef825eaa950bf10a48717f4b",
-        "key": "cf6b5b32f2a55d0b0bd685b6e8e4b084"
+        "keyId": "91fef4961de552238873f1aeed45af22",
+        "key": "f0dcda661d2d4efd28ff66a981e9c83e"
       }
     }
   },
