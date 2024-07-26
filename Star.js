@@ -1,10 +1,10 @@
 const channelData = {
   "Starhindi": {
-    "file": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/xxx.mpd",
+    "file": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/mani.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "9bc4071e714451ceb50b23487ad4a050",
-        "key": "d72ea49d483987571cfe37218bd8ddb0"
+        "keyId": "6a63735cef825eaa950bf10a48717f4b",
+        "key": "cf6b5b32f2a55d0b0bd685b6e8e4b084"
       }
     }
   },
