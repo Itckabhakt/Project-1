@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Embedded Video</title>
+    <style>
+        .wrapper {
+            position: relative;
+            width: 100%;
+            height: 60vh; 
+            overflow: hidden;
+        }
+        .video-frame {
+            position: absolute;
+            top: -111px; 
+            left: 0;
+            width: 100%;
+            height: calc(100% + -50px); 
+            border: none;
+            pointer-events: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <iframe src="https://streamsl.fun/app/play.php?cid=Six_HD&id=155" class="video-frame" scrolling="no"></iframe>
+    </div>
+</body>
+</html>
