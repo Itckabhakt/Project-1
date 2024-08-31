@@ -17,12 +17,13 @@ const channelData = {
       }
     }
   },
-    "bhai": {
+  "ext": {
     "file": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
     "drm": {
       "clearkey": {
         "keyId": "fc12a94c41e0885dbea8a8d94f0a277d",
         "key": "fc045df077e7669666b1b230e9aa3901"
       }
-    },
+    }
+   }
   };
