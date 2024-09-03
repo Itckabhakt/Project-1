@@ -17,13 +17,13 @@ const channelData = {
       }
     }
   },
-  "ext": {
-    "file": "https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+  "ptvsports": {
+    "file": "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpdntent/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8",
     "drm": {
       "clearkey": {
-        "keyId": "fc12a94c41e0885dbea8a8d94f0a277d",
-        "key": "fc045df077e7669666b1b230e9aa3901"
+        "keyId": "9ecad6c4413f8bdc54712ce6c072a2cf",
+        "key": "442df559c369bdada8ba3abe97811575"
       }
     }
-   }
-  };
+  }
+ };
