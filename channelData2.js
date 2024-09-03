@@ -18,7 +18,7 @@ const channelData = {
     }
   },
   "ptvsports": {
-    "file": "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpdntent/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8",
+    "file": "https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd",
     "drm": {
       "clearkey": {
         "keyId": "9ecad6c4413f8bdc54712ce6c072a2cf",
