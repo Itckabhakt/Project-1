@@ -30,8 +30,8 @@ const channelData = {
     "file": "https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "03c2e0af2f8159f9f0ce9b5dbc865f10",
-        "key": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
+        "keyId": "a8eb0f152c6e429ca7a53f399aadf257",
+        "key": "c593c2eeea62742285b99e4d87b1c84a"
       }
     }
   }
