@@ -27,7 +27,7 @@ const channelData = {
     }
   },
   "astro": {
-    "file": "https://cors-proxy.cooks.fyi/https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd",
+    "file": "https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd",
     "drm": {
       "clearkey": {
         "keyId": "03c2e0af2f8159f9f0ce9b5dbc865f10",
