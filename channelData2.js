@@ -26,12 +26,12 @@ const channelData = {
       }
     }
   },
-  "astro": {
-    "file": "https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd",
+  "fball": {
+    "file": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "a8eb0f152c6e429ca7a53f399aadf257",
-        "key": "c593c2eeea62742285b99e4d87b1c84a"
+        "keyId": "252a671825ba31ec8433f978c32ccf6d",
+        "key": "ee560759ecc8d2274df2e63fcef56915"
       }
     }
   }
