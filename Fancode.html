@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Fancode</title>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.8.8/shaka-player.ui.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/shaka-player/4.9.3/controls.min.css" rel="stylesheet">
+    <style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style>
+</head>
+<body bgcolor="black" style="margin:0;">
+<center>
+    <div data-shaka-player-container="" style="width: 100%; height: 100%; cursor: none;" class="shaka-mobile shaka-video-container" shaka-controls="true">
+        <video poster="#" autoplay="" data-shaka-player="" id="video" style="width: 100%; height: 100%;" class="shaka-video"></video>
+    </div>
+</center>
+
+<!-- Script 1: MPD File and Player Configuration -->
+<script>
+const manifestUri = 'https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd';
+
+// Initialize the player and load the MPD file
+async function initPlayer() {
+    const video = document.getElementById('video');
+    const ui = video['ui'];
+    const controls = ui.getControls();
+    const player = controls.getPlayer();
+
+    const config = {
+        'controlPanelElements': ['play_pause', 'time_and_duration', 'spacer', 'mute', 'picture_in_picture', 'playback_rate', 'quality', 'fullscreen'],
+        'playbackRates': [0.5, 0.75, 1, 1.25, 1.5, 1.75, 2],
+    };
+    ui.configure(config);
+
+    try {
+        await player.load(manifestUri);
+        console.log('The video has now been loaded!');
+    } catch (error) {
+        console.error('Error loading the video:', error);
+    }
+}
+
+document.addEventListener('shaka-ui-loaded', initPlayer);
+</script>
+
+<!-- Script 2: DRM Keys and Error Handling -->
+<script>
+async function initDRM() {
+    const video = document.getElementById('video');
+    const ui = video['ui'];
+    const controls = ui.getControls();
+    const player = controls.getPlayer();
+
+    // DRM configuration with keys
+    player.configure({
+        drm: {
+            clearKeys: {
+                '159a2b4e1d2d7f16892d35d935a2fb34': '07809840dd0f511221ca78459167d1b3',
+            }
+        }
+    });
+
+    // Attach player and ui to the window for easy access in the JS console
+    window.player = player;
+    window.ui = ui;
+
+    // Add event listeners for errors
+    player.addEventListener('error', onPlayerErrorEvent);
+    controls.addEventListener('error', onUIErrorEvent);
+}
+
+function onPlayerErrorEvent(errorEvent) {
+    onPlayerError(errorEvent.detail);
+}
+
+function onPlayerError(error) {
+    console.error('Player error:', error.code, error);
+}
+
+function onUIErrorEvent(errorEvent) {
+    onPlayerError(errorEvent.detail);
+}
+
+function initFailed(errorEvent) {
+    console.error('Failed to load the UI library:', errorEvent.detail.reasonCode);
+}
+
+// Event listeners for the Shaka Player DRM
+document.addEventListener('shaka-ui-loaded', initDRM);
+document.addEventListener('shaka-ui-load-failed', initFailed);
+</script>
+
+</body>
+</html>
