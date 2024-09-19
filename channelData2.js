@@ -35,12 +35,12 @@ const channelData = {
       }
     }
   },
-    "all": {
-    "file": "https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd",
+    "18": {
+    "file": "https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "159a2b4e1d2d7f16892d35d935a2fb34",
-        "key": "07809840dd0f511221ca78459167d1b3"
+        "keyId": "d86185f50f5952589c280167ee8e45c5",
+        "key": "6bff81346539e4bcc9abdb351f1c855e"
       }
     }
     }
