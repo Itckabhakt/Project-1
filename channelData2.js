@@ -43,5 +43,23 @@ const channelData = {
         "key": "6bff81346539e4bcc9abdb351f1c855e"
       }
     }
+    },
+    "111": {
+    "file": "https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013864-715126-48f61a01376)/master.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "0022f273ed6fb5dff81d5077d31f5828",
+        "key": "abe8518e8479787274f3fc12ed22190d"
+      }
     }
+  },
+    "222": {
+    "file": "https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013868-715130-48f61dd1c7a)/master.mpd",
+    "drm": {
+      "clearkey": {
+        "keyId": "0022543b31c3eb0fd39af9d972377431",
+        "key": "dba2e6e194f7f22bda72364fd0eaeea9"
+      }
+    }
+  },
  };
