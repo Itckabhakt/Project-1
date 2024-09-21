@@ -9,7 +9,7 @@ const channelData = {
     }
   },
   "extra": {
-    "file": "https://zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://dfwlive-v1-c1p3-sponsored.cf.dtvcdn.com/Content/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8",
+    "file": "https://zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://zerotoone.com.br/wp-content/plugins/super-links/application/helpers/super-links-proxy.php/https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLXT-3292.dfw.1080)/index.m3u8",
     "drm": {
       "clearkey": {
         "keyId": "1f52934d28a25c51a5dd577a650dcece",
