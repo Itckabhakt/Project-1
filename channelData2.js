@@ -54,11 +54,11 @@ const channelData = {
     }
   },
     "222": {
-    "file": "https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013868-715130-48f61dd1c7a)/master.mpd",
+    "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "0022543b31c3eb0fd39af9d972377431",
-        "key": "dba2e6e194f7f22bda72364fd0eaeea9"
+        "keyId": "232d71bb013d39ffb92ee8c576fb7e8e",
+        "key": "087408a48be8d57046c3868b37ea90ba"
       }
     }
   },
