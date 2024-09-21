@@ -54,11 +54,11 @@ const channelData = {
     }
   },
     "222": {
-    "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd",
+    "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(kvea)/master.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "232d71bb013d39ffb92ee8c576fb7e8e",
-        "key": "087408a48be8d57046c3868b37ea90ba"
+        "keyId": "dfb59142ce523a6c900758d5ee4c7997",
+        "key": "bd2d684e590815190eda056a6d9618bc"
       }
     }
   },
