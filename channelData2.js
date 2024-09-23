@@ -44,12 +44,12 @@ const channelData = {
       }
     }
     },
-    "111": {
-    "file": "https://g006-sle-us-cmaf-prd-fy.cdn.peacocktv.com/co01/Content/CMAF_S2-CTR-4s/Live/channel(5013864-715126-48f61a01376)/master.mpd",
+    "fall": {
+    "file": "https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "0022f273ed6fb5dff81d5077d31f5828",
-        "key": "abe8518e8479787274f3fc12ed22190d"
+        "keyId": "159a2b4e1d2d7f16892d35d935a2fb34",
+        "key": "07809840dd0f511221ca78459167d1b3"
       }
     }
   },
