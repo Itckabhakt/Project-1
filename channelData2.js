@@ -53,12 +53,12 @@ const channelData = {
       }
     }
   },
-    "222": {
-    "file": "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(kvea)/master.mpd",
+    "cricbuzz": {
+    "file": "https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd",
     "drm": {
       "clearkey": {
-        "keyId": "dfb59142ce523a6c900758d5ee4c7997",
-        "key": "bd2d684e590815190eda056a6d9618bc"
+        "keyId": "4301796d6d67374043c4a43c18dff7ea",
+        "key": "96a3dc8766317aa169149a604928ebb6"
       }
     }
   },
