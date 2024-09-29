@@ -35,12 +35,12 @@ const channelData = {
       }
     }
   },
-    "18": {
-    "file": "https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd",
+    "atro": {
+    "file": "https://z88.ubtvfans.com/live/rx3/1173/8c79319a321f4fba0a201a6b3d6d190f/index.m3u8",
     "drm": {
       "clearkey": {
-        "keyId": "d86185f50f5952589c280167ee8e45c5",
-        "key": "6bff81346539e4bcc9abdb351f1c855e"
+        "keyId": "03c2e0af2f8159f9f0ce9b5dbc865f10",
+        "key": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
       }
     }
     },
